@@ -257,7 +257,7 @@ header
 }
 
 .header-area {
-  background-image: url(../images/Wave-10s-3000px.png);
+  background-image: url(../images/header-bg.png);
   background-size: 100% ;
   background-repeat: no-repeat;
   background-position: center;
@@ -327,7 +327,7 @@ header
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   text-transform: capitalize;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
