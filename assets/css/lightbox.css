@@ -201,3 +201,9 @@ html.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
+.banner-image {
+  background-image: url(../images/banner-left-dec.png);
+  height: 400px;
+  
+}
